@@ -5,7 +5,7 @@ int main(void)
 {
     setlocale(LC_ALL, "Rus");
     int a, b;
-    printf("Введите два числа через пробел: \n");
+    printf("Р’РІРµРґРёС‚Рµ РґРІР° С‡РёСЃР»Р° С‡РµСЂРµР· РїСЂРѕР±РµР»: \n");
     scanf("%d%d", &a, &b);
     printf("%d - %d = %d\n", a,b,a - b);
     return 0;
